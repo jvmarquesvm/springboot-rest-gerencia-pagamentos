@@ -1,0 +1,1 @@
+Foi necessário modificar a versão do springboot de 1.5.3.RELEASE para 1.5.17.RELEASE devido erro na conexão com o banco de dados Mysql - versão v.8.0.13
